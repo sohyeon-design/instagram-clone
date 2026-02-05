@@ -1,0 +1,12 @@
+.feed {
+  max-width: 614px;
+  margin: 24px auto;
+  padding: 0 20px;
+}
+
+@media (max-width: 768px) {
+  .feed {
+    padding: 0;
+    margin: 0 auto;
+  }
+}
